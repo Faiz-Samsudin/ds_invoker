@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package sociopath;
 
 import java.util.ArrayList;
 
 /**
- * This is basically WeightedGraph class, but this is desiged for Student object as vertices
+ * This is basically WeightedGraph class, but this is designed for Student object as vertices
  * @author Lidros
  */
 public class SociopathGraph<N extends Comparable<N>> {
