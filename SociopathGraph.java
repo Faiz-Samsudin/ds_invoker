@@ -8,7 +8,7 @@ package sociopath;
 import java.util.ArrayList;
 
 /**
- *
+ * This is basically WeightedGraph class, but this is desiged for Student object as vertices
  * @author Lidros
  */
 public class SociopathGraph<N extends Comparable<N>> {
